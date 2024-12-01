@@ -1,0 +1,4 @@
+[submodule "Lama"]
+	path = Lama
+	url = https://github.com/PLTools/Lama
+	branch = 1.20
